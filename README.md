@@ -1,6 +1,6 @@
 ### to-do
 
--> consistency
--> persistence
--> advanced search, K-NN or smthg
--> prs pls
+1.  consistency
+2.  persistence
+3.   dvanced search, K-NN or smthg
+4 .   prss pls
